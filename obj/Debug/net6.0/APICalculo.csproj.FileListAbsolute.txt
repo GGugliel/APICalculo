@@ -1,0 +1,63 @@
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\appsettings.json
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\APICalculo.exe
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\APICalculo.deps.json
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\APICalculo.runtimeconfig.json
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\APICalculo.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\APICalculo.pdb
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.csproj.AssemblyReference.cache
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.AssemblyInfoInputs.cache
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.AssemblyInfo.cs
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.csproj.CoreCompileInputs.cache
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\scopedcss\bundle\APICalculo.styles.css
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\refint\APICalculo.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.pdb
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.genruntimeconfig.cache
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\ref\APICalculo.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\RestSharp.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.csproj.CopyComplete
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ggugliel\OneDrive - Capgemini\Documents\Desenv\APICalculo\APICalculo\obj\Debug\net6.0\APICalculo.MvcApplicationPartsAssemblyInfo.cs
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.dll
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\refint\APICalculo.dll
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.pdb
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\appsettings.Development.json
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\appsettings.json
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\APICalculo.exe
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\APICalculo.deps.json
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\APICalculo.runtimeconfig.json
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\APICalculo.dll
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\APICalculo.pdb
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\RestSharp.dll
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HD-TP-IBM\Desenv\APICalculo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.csproj.AssemblyReference.cache
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.AssemblyInfoInputs.cache
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.AssemblyInfo.cs
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.csproj.CoreCompileInputs.cache
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.MvcApplicationPartsAssemblyInfo.cs
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.MvcApplicationPartsAssemblyInfo.cache
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets.build.json
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets.development.json
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\scopedcss\bundle\APICalculo.styles.css
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.csproj.CopyComplete
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\APICalculo.genruntimeconfig.cache
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\ref\APICalculo.dll
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets\msbuild.APICalculo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets\msbuild.build.APICalculo.props
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APICalculo.props
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APICalculo.props
+E:\HD-TP-IBM\Desenv\APICalculo\obj\Debug\net6.0\staticwebassets.pack.json
